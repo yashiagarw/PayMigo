@@ -1,0 +1,10 @@
+.otp-form {
+    display: flex;
+    flex-direction: column;
+  }
+  .otp-form label {
+    margin-bottom: 5px;
+  }
+  .otp-form input {
+    margin-bottom: 10px;
+  }

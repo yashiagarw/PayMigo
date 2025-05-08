@@ -1,0 +1,10 @@
+.login-form {
+    display: flex;
+    flex-direction: column;
+  }
+  .login-form label {
+    margin-bottom: 5px;
+  }
+  .login-form input {
+    margin-bottom: 10px;
+  }
